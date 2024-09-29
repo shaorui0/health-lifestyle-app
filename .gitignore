@@ -1,0 +1,21 @@
+# Go
+/bin/
+/pkg/
+/vendor/
+*.exe
+*.log
+
+# Node
+/node_modules
+/dist
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Environment Variables
+.env
+
+# IDEs
+.vscode/
+.idea/
